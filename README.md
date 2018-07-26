@@ -1,2 +1,1 @@
-# .vimrc
-.vimrc configuration
+# misc linux configurations
